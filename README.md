@@ -5,7 +5,7 @@ Projeto desenvolvido para Mobile
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Mobile Alura**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | java, html, (tecnologias utilizadas)
 | :rocket: URL         | https://alurabook-kappa-three.vercel.app/
 | :fire: Desafio     | 
 
